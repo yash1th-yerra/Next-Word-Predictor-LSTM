@@ -1,5 +1,4 @@
 # Next-Word-Predictor-LSTM
-Based on the content of the Jupyter notebook, here is a draft for the `README.md` file for the repository:
 
 ```
 # Next Word Predictor using LSTM
